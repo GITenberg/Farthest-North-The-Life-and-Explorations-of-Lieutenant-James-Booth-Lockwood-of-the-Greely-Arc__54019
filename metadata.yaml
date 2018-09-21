@@ -1,0 +1,28 @@
+_repo: Farthest-North-The-Life-and-Explorations-of-Lieutenant-James-Booth-Lockwood-of-the-Greely-Arc__54019
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lanman, Charles
+    birthdate: 1819
+    deathdate: 1895
+    gutenberg_agent_id: '44753'
+    url: http://www.gutenberg.org/2009/agents/44753
+description: ''
+gutenberg_issued: '2017-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54019'
+  lccn: 05039712
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lockwood, James Booth, 1852-1884'
+- !lcc 'G'
+- !lcsh 'Arctic regions'
+- !lcsh 'Lady Franklin Bay Expedition (1881-1884)'
+- GITenberg
+title: "Farthest North\r\nThe Life and Explorations of Lieutenant James Booth Lockwood,\
+  \ of the Greely Arctic Expedition"
+url: http://www.gutenberg.org/ebooks/54019
